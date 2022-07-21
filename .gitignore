@@ -11,9 +11,12 @@
 # production
 /build
 
+Desktop.ini
+Thumbs.db
+
 # misc
-.DS_Store/*
-.idea/*
+.DS_Store
+.idea/
 .idea/vcs.xml
 .env.local
 .env.development.local
